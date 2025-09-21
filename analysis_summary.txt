@@ -1,0 +1,7 @@
+Total Records:12
+Average Temperature:54.7875
+Max Temperature:93.58
+Min Temperature:25.99
+Average Vibration:2.794166666666667
+Max Vibration:4.68
+Min Vibration:1.06
