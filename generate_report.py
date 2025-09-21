@@ -27,5 +27,5 @@ def generate_pdf():
     pdf.output(filename)
     print(f"PDF report generated: {filename}")
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     generate_pdf()
